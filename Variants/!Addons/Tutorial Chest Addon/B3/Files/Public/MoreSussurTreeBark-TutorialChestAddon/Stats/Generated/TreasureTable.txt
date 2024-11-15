@@ -1,0 +1,4 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "50,1"
+object category "I_QUEST_FOR_SussurBark",1,0,0,0,0,0,0,0
